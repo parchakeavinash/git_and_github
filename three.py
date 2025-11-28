@@ -1,8 +1,8 @@
 print("hello three! How are you?")
 print()
 
-for i in range(1, 10):
-    print(f'{i} bro')
+# for i in range(1, 10):
+#     print(f'{i} bro')
 
 def add_number(a,b):
     return a + b
